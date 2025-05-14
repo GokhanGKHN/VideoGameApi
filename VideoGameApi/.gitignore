@@ -1,0 +1,15 @@
+﻿# Ortam dosyası
+.env
+
+# Kullanıcıya özel dosyalar
+*.user
+*.vs/
+.vscode/
+
+# Derleme çıktısı
+bin/
+obj/
+
+# Hassas yapılandırma
+appsettings.json
+appsettings.Development.json

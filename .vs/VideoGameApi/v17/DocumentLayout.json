@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Dev\\ASP.NET\\VideoGameApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3B39BA-5723-4568-83B7-BF33103E21F7}|VideoGameApi\\VideoGameApi.csproj|x:\\dev\\asp.net\\videogameapi\\videogameapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3B39BA-5723-4568-83B7-BF33103E21F7}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3B39BA-5723-4568-83B7-BF33103E21F7}|VideoGameApi\\VideoGameApi.csproj|x:\\dev\\asp.net\\videogameapi\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3B39BA-5723-4568-83B7-BF33103E21F7}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "X:\\Dev\\ASP.NET\\VideoGameApi\\VideoGameApi\\.gitignore",
+              "RelativeDocumentMoniker": "VideoGameApi\\.gitignore",
+              "ToolTip": "X:\\Dev\\ASP.NET\\VideoGameApi\\VideoGameApi\\.gitignore",
+              "RelativeToolTip": "VideoGameApi\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T10:56:50.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Dev\\ASP.NET\\VideoGameApi\\VideoGameApi\\Program.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Program.cs",
+              "ToolTip": "X:\\Dev\\ASP.NET\\VideoGameApi\\VideoGameApi\\Program.cs",
+              "RelativeToolTip": "VideoGameApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:41:07.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
